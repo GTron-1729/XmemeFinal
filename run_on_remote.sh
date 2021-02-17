@@ -14,4 +14,4 @@ cat ./sleep.sh
 ./sleep.sh
 
 echo "Running base score_generate.py"
-python3 ~/score_generate.py $usr "BASE"
+python3 score_generate.py $usr "BASE"
